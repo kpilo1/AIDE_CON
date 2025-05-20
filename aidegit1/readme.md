@@ -4,3 +4,6 @@ i like hamburger
 
 welcome  
 취미 추가
+
+welcome 
+특기 추가 
